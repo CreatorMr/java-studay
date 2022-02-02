@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26eeab38-5c0c-42dd-9004-3b22e92e5eee" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23sP09lLxiER3XOZUjYqHJiSbCs" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HouseRentApp">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.Demo" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualsExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.Object_.EqualsExercise01" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.Object_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.houserent.HouseRentApp" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.houserent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallChangeSys.SmallChangeSys" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallChangeSys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smallChangeSys.oop.SmallChangeSysApp" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smallChangeSys.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HouseRentApp" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.SmallChangeSysApp" />
+        <item itemvalue="Application.SmallChangeSys" />
+        <item itemvalue="Application.EqualsExercise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26eeab38-5c0c-42dd-9004-3b22e92e5eee" name="Default" comment="" />
+      <created>1642000569168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642000569168</updated>
+      <workItem from="1642000570670" duration="2221000" />
+      <workItem from="1642433447343" duration="258000" />
+      <workItem from="1642519605816" duration="70000" />
+      <workItem from="1642519698933" duration="68000" />
+      <workItem from="1642520833899" duration="236000" />
+      <workItem from="1642605830336" duration="105000" />
+      <workItem from="1642605960765" duration="29000" />
+      <workItem from="1642607516188" duration="1797000" />
+      <workItem from="1642691302585" duration="3508000" />
+      <workItem from="1643042181792" duration="1161000" />
+      <workItem from="1643345972357" duration="1219000" />
+      <workItem from="1643512240363" duration="1162000" />
+      <workItem from="1643727112182" duration="811000" />
+      <workItem from="1643728875619" duration="7833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1804" y="286" key="#com.intellij.ide.util.MemberChooser" timestamp="1643734033105">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state x="1015" y="182" key="#com.intellij.ide.util.MemberChooser/0.25.1440.818@0.25.1440.818" timestamp="1642694060628" />
+    <state x="1804" y="286" key="#com.intellij.ide.util.MemberChooser/0.25.2560.1358@0.25.2560.1358" timestamp="1643734033105" />
+    <state width="1127" height="328" key="GridCell.Tab.0.bottom" timestamp="1643737456376">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state width="892" height="190" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1643043367261" />
+    <state width="1127" height="328" key="GridCell.Tab.0.bottom/0.25.2560.1358@0.25.2560.1358" timestamp="1643737456376" />
+    <state width="1127" height="328" key="GridCell.Tab.0.center" timestamp="1643737456375">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state width="892" height="190" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1643043367260" />
+    <state width="1127" height="328" key="GridCell.Tab.0.center/0.25.2560.1358@0.25.2560.1358" timestamp="1643737456375" />
+    <state width="1127" height="328" key="GridCell.Tab.0.left" timestamp="1643737456375">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state width="892" height="190" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1643043367259" />
+    <state width="1127" height="328" key="GridCell.Tab.0.left/0.25.2560.1358@0.25.2560.1358" timestamp="1643737456375" />
+    <state width="1127" height="328" key="GridCell.Tab.0.right" timestamp="1643737456375">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state width="892" height="190" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1643043367260" />
+    <state width="1127" height="328" key="GridCell.Tab.0.right/0.25.2560.1358@0.25.2560.1358" timestamp="1643737456375" />
+    <state x="739" y="25" width="1024" height="818" key="SettingsEditor" timestamp="1643346341377">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state x="416" y="25" width="1024" height="818" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1642693416125" />
+    <state x="739" y="25" key="SettingsEditor/0.25.2560.1358@0.25.2560.1358" timestamp="1643346341377" />
+    <state x="1182" y="261" width="1192" height="1123" key="search.everywhere.popup" timestamp="1643734860027">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state x="665" y="167" width="670" height="676" key="search.everywhere.popup/0.25.1440.818@0.25.1440.818" timestamp="1643043052213" />
+    <state x="1182" y="261" width="1192" height="1123" key="search.everywhere.popup/0.25.2560.1358@0.25.2560.1358" timestamp="1643734860027" />
+  </component>
+</project>
